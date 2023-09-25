@@ -7,7 +7,7 @@ namespace Tyuiu.FaizullinDR.Sprint1.Task4.V20.Test
 { 
     [TestClass]
     public class DataServiceTest  
-    {
+    { 
         [TestMethod]
         public void ValidExpression()
         {
