@@ -10,7 +10,7 @@ namespace Tyuiu.FaizullinDR.Sprint1.Task4.V20
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             DataService ds = new DataService();
 
