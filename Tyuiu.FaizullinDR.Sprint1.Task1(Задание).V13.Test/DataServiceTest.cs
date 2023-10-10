@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
-using Tyuiu.FaizullinDR.Sprint1.Task1.V13.Lib;
+using Tyuiu.FaizullinDR.Sprint1.Task1_Задание_.V13.Lib;
 
 // x / (0.5 * x)
 
